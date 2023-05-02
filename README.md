@@ -1,6 +1,6 @@
 # CronometroJS
 
-https://vinnyalmeidabr.github.io/js_Cronometro_v1/
+https://vinnissu.github.io/js_Cronometro_v1/
 
 
 Cronometro usando JS, dankicode videos.
